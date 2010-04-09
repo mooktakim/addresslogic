@@ -1,4 +1,8 @@
-require 'activerecord'
+begin
+  require 'activerecord'
+rescue LoadError
+  require 'active_record'
+end
 
 # = Address Logic
 #
