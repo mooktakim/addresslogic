@@ -1,6 +1,6 @@
 begin
   require 'activerecord'
-rescue Error
+rescue LoadError
   require 'active_record'
 end
 
