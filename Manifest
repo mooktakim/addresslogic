@@ -1,9 +1,10 @@
-init.rb
-lib/addresslogic/version.rb
-lib/addresslogic.rb
 MIT-LICENSE
-Rakefile
-README.rdoc
-test/addresslogic_tests.rb
-test/test_helper.rb
 Manifest
+README.rdoc
+Rakefile
+addresslogic.gemspec
+init.rb
+lib/addresslogic.rb
+lib/addresslogic/version.rb
+test/test_addresslogic.rb
+test/test_helper.rb
